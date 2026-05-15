@@ -2,6 +2,19 @@
 
 A hybrid real-time telemetry system that streams biometric and motion sensor data from a Samsung Galaxy Watch (Wear OS) to an ESP32 host, which aggregates and displays the data on a Nextion HMI touchscreen and a web dashboard.
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td><img src="docs/images/telemetry_01.jpg" width="320"/></td>
+    <td><img src="docs/images/telemetry_02.jpg" width="320"/></td>
+  </tr>
+  <tr>
+    <td><img src="docs/images/telemetry_03.jpg" width="320"/></td>
+    <td><img src="docs/images/telemetry_04.jpg" width="320"/></td>
+  </tr>
+</table>
+
 ## 🔄 Data Flow
 
 ```
