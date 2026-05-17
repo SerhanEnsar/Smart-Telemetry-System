@@ -91,6 +91,10 @@ Once the ESP32 is running and connected to Wi-Fi, open `http://<ESP32_IP>/` in a
 | GET | `/ping` | Connectivity check |
 | POST | `/sensor` | Receive data from Watch |
 
+## 👨‍💻 Developer
+
+Created and developed by **[Serhan Ensar](https://github.com/SerhanEnsar)**.
+
 ## 📄 License
 
 MIT
