@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Serhan Ensar. All rights reserved.
 package com.serhanensar.hmisensordata.presentation
 
 import android.Manifest
