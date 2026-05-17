@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Serhan Ensar. All rights reserved.
 #include <WiFi.h>
 #include <WebServer.h>
 #include <ArduinoJson.h>
